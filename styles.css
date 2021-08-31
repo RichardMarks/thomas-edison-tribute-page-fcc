@@ -1,0 +1,26 @@
+html {
+  font-family: Lato, sans-serif;
+}
+
+#title {
+  text-align: center;
+}
+
+#image {
+  margin: 0 auto;
+  height: auto;
+  max-width: 400px;
+  border-radius: 50%;
+  display: block;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  text-align: justify;
+  padding: 1em;
+}
